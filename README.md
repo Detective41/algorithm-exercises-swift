@@ -34,10 +34,12 @@
 # 2. Linked List
 
 
-[2.1 Swap Nodes in Pairs(两两交换链表中的节点)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/24.%20Swap%20Nodes%20in%20Pairs(%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9).swift)
+[2.1 Merge Two Sorted Lists(合并两个有序链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/21.%20Merge%20Two%20Sorted%20Lists(%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8).swift)
 
-[2.2 Linked List Cycle(环形链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/141.%20Linked%20List%20Cycle(%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8).swift)
+[2.2 Swap Nodes in Pairs(两两交换链表中的节点)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/24.%20Swap%20Nodes%20in%20Pairs(%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9).swift)
 
-[2.3 Linked List Cycle II(环形链表II)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/142.%20Linked%20List%20Cycle%20II(%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II).swift)
+[2.3 Linked List Cycle(环形链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/141.%20Linked%20List%20Cycle(%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8).swift)
 
-[2.4 Reverse Linked List(反转链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/206.%20Reverse%20Linked%20List(%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8).swift)
+[2.4 Linked List Cycle II(环形链表II)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/142.%20Linked%20List%20Cycle%20II(%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II).swift)
+
+[2.5 Reverse Linked List(反转链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/206.%20Reverse%20Linked%20List(%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8).swift)
