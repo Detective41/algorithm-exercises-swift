@@ -43,3 +43,9 @@
 [2.4 Linked List Cycle II(环形链表II)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/142.%20Linked%20List%20Cycle%20II(%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II).swift)
 
 [2.5 Reverse Linked List(反转链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/206.%20Reverse%20Linked%20List(%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8).swift)
+
+
+
+# License
+
+This repositorie is released under the under [MIT License](https://github.com/Detective41/algorithm-exercises-swift/blob/main/LICENSE)
