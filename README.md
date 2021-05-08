@@ -29,3 +29,15 @@
 [1.10 Rotate Array(旋转数组)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Array/189.%20Rotate%20Array(%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84).swift)
 
 [1.11 Move Zeroes(移动零)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Array/283.%20Move%20Zeroes(%E7%A7%BB%E5%8A%A8%E9%9B%B6).swift)
+
+
+# 2. Linked List
+
+
+[2.1 Swap Nodes in Pairs(两两交换链表中的节点)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/24.%20Swap%20Nodes%20in%20Pairs(%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9).swift)
+
+[2.2 Linked List Cycle(环形链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/141.%20Linked%20List%20Cycle(%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8).swift)
+
+[2.3 Linked List Cycle II(环形链表II)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/142.%20Linked%20List%20Cycle%20II(%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II).swift)
+
+[2.4 Reverse Linked List(反转链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/206.%20Reverse%20Linked%20List(%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8).swift)
