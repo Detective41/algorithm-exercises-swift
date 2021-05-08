@@ -48,4 +48,4 @@
 
 # License
 
-This repository is released under the under [MIT License](https://github.com/Detective41/algorithm-exercises-swift/blob/main/LICENSE)
+This repository is released under the [MIT License](https://github.com/Detective41/algorithm-exercises-swift/blob/main/LICENSE)
