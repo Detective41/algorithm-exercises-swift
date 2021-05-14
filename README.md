@@ -84,6 +84,29 @@
 
 [3.16 Construct Binary Tree from Preorder and Inorder Traversal(从前序与中序遍历序列构造二叉树)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal(%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91).swift)
 
+[3.17 Lowest Common Ancestor of a Binary Tree(二叉树最近公共祖先)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree(%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88).swift)
+
+
+# 4. Recursion & Backtrack
+
+[4.1  Letter Combinations of a Phone Number(电话号码的字母组合)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88).swift)
+
+[4.2 Generate Parentheses(括号生成)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/22.%20Generate%20Parentheses(%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90).swift)
+
+[4.3 Permutations(全排列)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/46.%20Permutations(%E5%85%A8%E6%8E%92%E5%88%97).swift)
+
+[4.4 Permutations II(全排列II)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/47.%20Permutations%20II(%E5%85%A8%E6%8E%92%E5%88%97II).swift)
+
+[4.5 50. Pow(x, n)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/50.%20Pow(x%2C%20n).swift)
+
+[4.6 N-Queens(N皇后)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/51.%20N-Queens(N%E7%9A%87%E5%90%8E).swift)
+
+[4.7 Combinations(组合)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/77.%20Combinations(%E7%BB%84%E5%90%88).swift)
+
+[4.8 Subsets(子集)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/78.%20Subsets(%E5%AD%90%E9%9B%86).swift)
+
+[4.9 Majority Element(多数元素)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Recursion%20%26%20Backtrack/169.%20Majority%20Element(%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0).swift)
+
 
 # License
 
