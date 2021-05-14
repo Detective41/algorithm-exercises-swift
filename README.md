@@ -49,6 +49,27 @@
 [2.5 Reverse Linked List(反转链表)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Linked%20List/206.%20Reverse%20Linked%20List(%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8).swift)
 
 
+# 3. Binary Tree
+
+
+[3.1 Binary Tree Inorder Traversal(二叉树的中序遍历)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/94.%20Binary%20Tree%20Inorder%20Traversal(%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86).swift)
+
+[3.2 Binary Tree Preorder Traversal(二叉树的前序遍历)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/144.%20Binary%20Tree%20Preorder%20Traversal(%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86).swift)
+
+[3.3 Binary Tree Postorder Traversal(二叉树的后序遍历)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/145.%20Binary%20Tree%20Postorder%20Traversal(%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86).swift)
+
+[3.4 Sliding Window Maximum(滑动窗口最大值)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/239.%20Sliding%20Window%20Maximum(%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC).swift)
+
+[3.5 Ugly Number II(丑数II)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/264.%20Ugly%20Number%20II(%E4%B8%91%E6%95%B0II).swift)
+
+[3.6 Top K Frequent Elements(前K个高频元素)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/347.%20Top%20K%20Frequent%20Elements(%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0).swift)
+
+[3.7 N-ary Tree Level Order Traversal(N叉树的层序遍历)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/429.%20N-ary%20Tree%20Level%20Order%20Traversal(N%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86).swift)
+
+[3.8 N-ary Tree Preorder Traversal(N叉树的前序遍历)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/589.%20N-ary%20Tree%20Preorder%20Traversal(N%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86).swift)
+
+[3.9 N-ary Tree Postorder Traversal(N叉树的后序遍历)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/590.%20N-ary%20Tree%20Postorder%20Traversal(N%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86).swift)
+
 
 # License
 
