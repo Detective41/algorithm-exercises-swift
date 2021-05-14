@@ -72,6 +72,18 @@
 
 [3.10 最小的K个数](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.swift)
 
+[3.11 Invert Binary Tree(翻转二叉树)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/226.%20Invert%20Binary%20Tree(%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91).swift)
+
+[3.12 Validate Binary Search Tree(验证二叉搜索树)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/98.%20Validate%20Binary%20Search%20Tree(%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91).swift)
+
+[3.13 Maximum Depth of Binary Tree(二叉树最大深度)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree(%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6).swift)
+
+[3.14 Minimum Depth of Binary Tree(二叉树最小深度)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/111.%20Minimum%20Depth%20of%20Binary%20Tree(%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6).swift)
+
+[3.15 Serialize and Deserialize Binary Tree(二叉树的序列化与反序列化)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree(%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96).swift)
+
+[3.16 Construct Binary Tree from Preorder and Inorder Traversal(从前序与中序遍历序列构造二叉树)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal(%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91).swift)
+
 
 # License
 
