@@ -9,7 +9,7 @@ public class TreeNode {
              self.left = left
              self.right = right
     }
- }
+}
 
 //Solution 1
  func postorderTraversal(_ root: TreeNode?) -> [Int] {
