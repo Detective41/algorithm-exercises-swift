@@ -70,6 +70,8 @@
 
 [3.9 N-ary Tree Postorder Traversal(N叉树的后序遍历)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/590.%20N-ary%20Tree%20Postorder%20Traversal(N%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86).swift)
 
+[3.10 最小的K个数](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Binary%20Tree/%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.swift)
+
 
 # License
 
