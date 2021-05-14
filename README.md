@@ -30,6 +30,10 @@
 
 [1.11 Move Zeroes(移动零)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Array/283.%20Move%20Zeroes(%E7%A7%BB%E5%8A%A8%E9%9B%B6).swift)
 
+[1.12 Valid Anagram(有效的字母异位词)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Array/242.%20Valid%20Anagram(%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D).swift)
+
+[1.13 Group Anagrams(字母异位词分组)](https://github.com/Detective41/algorithm-exercises-swift/blob/main/Array/49.%20Group%20Anagrams(%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84).swift)
+
 
 # 2. Linked List
 
